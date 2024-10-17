@@ -1,2 +1,2 @@
 "# tic_tac_toe" 
-"# tic_tac_hoe" 
+"Simple tic-tac-toe game using python!"
